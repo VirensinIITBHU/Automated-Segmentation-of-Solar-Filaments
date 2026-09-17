@@ -1,0 +1,7 @@
+*.pt
+*.pth
+*.fits
+*.zip
+data/
+.venv/
+__pycache__/
